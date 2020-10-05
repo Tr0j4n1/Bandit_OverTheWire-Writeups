@@ -17,7 +17,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type the password obtained from previous challenge : `boJ9jbbUNNfktd78OOpsqOltutMc3MY1`
 - Type `cat ./-` or `cat <-` to read the dashed file
 - Copy the password `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`
-- Type `exit
+- Type `exit`
 
 #### Bandit: Level 2->3
 - Type command `ssh bandit2@bandit.labs.overthewire.org -p 2220`
