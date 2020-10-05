@@ -63,7 +63,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 #### Bandit: Level 7->8
 - Type command `ssh bandit7@bandit.labs.overthewire.org -p 2220`
 - Type the password `HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs`
-- Type `cat data.txt | grep "millionth" for getting the password`
+- Type `cat data.txt | grep "millionth"` for getting the password
 - Copy the password `cvX2JJa4CFALtqS87jk27qwqGhBM9plV`
 - Type `exit`
 
