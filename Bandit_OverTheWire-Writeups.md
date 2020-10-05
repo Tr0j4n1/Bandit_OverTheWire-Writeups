@@ -103,7 +103,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type the password `5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu`
 - Type `cat data.txt` to read the contents of the file
 - The provided `data.txt` file is a hex dump, so convert it back to it original binary form by `xxd -r data.txt`
-- A highly compressed file called data will be obtained
+- A highly compressed file called `data` will be obtained
 - We cannot decompress the file from the root directory, so we copy the file to another by `mkdir /tmp/myname123` and `cp data.txt /tmp/myname123`
 - Change the directory to the newly created directory by `cd /tmp/myname123`
 - Check the file type of the file `file <filename>`
