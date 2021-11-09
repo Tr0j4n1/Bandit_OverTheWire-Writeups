@@ -23,7 +23,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit` to return to your local server
 
 
-### Bandit: Level 1->2
+## Bandit: Level 1->2
 
 
 ![1](https://user-images.githubusercontent.com/71322795/101380187-36019a00-38db-11eb-8f51-a1ea55836a74.png)
