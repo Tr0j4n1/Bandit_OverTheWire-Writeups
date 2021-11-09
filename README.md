@@ -5,8 +5,8 @@ This is a basic CTF by OverTheWire, wargames category. Follow the link for extra
 
 
 These are the write-ups for the levels 1-15 of OverTheWire-Bandit
-<br/>
 
+<br/>
 
 ### Bandit: Level 0->1
 
