@@ -8,6 +8,7 @@ This is a basic CTF by OverTheWire, wargames category. Follow the link for extra
 These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 
 
+
 ### Bandit: Level 0->1
 
 
@@ -21,6 +22,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Copy the password `boJ9jbbUNNfktd78OOpsqOltutMc3MY1`
 - Type `exit` to return to your local server
 
+
 ### Bandit: Level 1->2
 
 
@@ -33,6 +35,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Copy the password `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`
 - Type `exit`
 
+
 ### Bandit: Level 2->3
 
 
@@ -44,6 +47,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `cat 'spaces in this filename'` or `cat spaces\in\this\filename`
 - Copy the password `UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`
 - Type `exit`
+
 
 ### Bandit: Level 3->4
 
@@ -59,6 +63,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Copy the password `pIwrPrtPN36QITSp3EQaw936yaFoFgAB`
 - Type `exit`
 
+
 ### Bandit: Level 4->5
 
 
@@ -71,6 +76,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - To read contents of all the files type `cat ./*`
 - Copy the password `koReBOKuIDDepwhWk7jZC0RTdopnAYKh`
 - Type `exit`
+
 
 ### Bandit: Level 5->6
 
@@ -86,6 +92,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Copy the password `DXjZPULLxYr17uwoI01bNLQbtFemEgo7`
 - Type `exit`
 
+
 ### Bandit: Level 6->7
 
 
@@ -99,6 +106,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Copy the password `HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs`
 - Type `exit`
 
+
 ### Bandit: Level 7->8
 
 
@@ -110,6 +118,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `cat data.txt | grep "millionth"` for getting the password
 - Copy the password `cvX2JJa4CFALtqS87jk27qwqGhBM9plV`
 - Type `exit`
+
 
 ### Bandit: Level 8->9
 
@@ -123,6 +132,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Copy the lines of which the count is 1 i.e, `UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR`
 - Type `exit`
 
+
 ### Bandit: Level 9->10
 
 
@@ -134,6 +144,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `strings data.txt`for getting the readable lines from the file
 - Copy the password `truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk`
 - Type `exit`
+
 
 ### Bandit: Level 10->11
 
@@ -149,6 +160,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Copy the decoded output which is the password `IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR`
 - Type `exit`
 
+
 ### Bandit: Level 11->12
 
 
@@ -161,6 +173,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Use the command `echo 'Gur cnffjbeq vf 5Gr8L4qetPEsPk8htqjhRK8XSP6x2RHh' | tr [N-ZA-Mn-za-m] [A-Za-z]` to decode the rot13 encoded string
 - Copy the decoded output that has the password `5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu`
 - Type `exit`
+
 
 ### Bandit: Level 12->13
 
@@ -186,6 +199,7 @@ To decompress :
 - Copy the password `8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL`from the file
 - Type `exit`
 
+
 ### Bandit: Level 13->14
 
 
@@ -198,6 +212,7 @@ To decompress :
 - Log into localhost with username `bandit14` by command `ssh bandit14@localhost -i sshkey.private`
 - Copy the password `4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e` from the address given in the description of the challenge
 - Type `exit`
+
 
 ### Bandit: Level 14->15
 
