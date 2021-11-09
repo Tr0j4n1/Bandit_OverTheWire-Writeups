@@ -8,7 +8,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 
 <br/>
 
-### Bandit: Level 0->1
+## Bandit: Level 0->1
 
 - Type command `ssh bandit0@bandit.labs.overthewire.org -p 2220`
 - Type the password : `bandit0`
@@ -18,7 +18,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit` to return to your local server
 <br/>
 
-### Bandit: Level 1->2
+## Bandit: Level 1->2
 
 - Type command `ssh bandit1@bandit.labs.overthewire.org -p 2220`
 - Type the password obtained from previous challenge : `boJ9jbbUNNfktd78OOpsqOltutMc3MY1`
