@@ -36,7 +36,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 
 
-### Bandit: Level 2->3
+## Bandit: Level 2->3
 
 
 ![2](https://user-images.githubusercontent.com/71322795/101380180-3437d680-38db-11eb-8320-afcc23616a0e.png)
@@ -49,7 +49,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 
 
-### Bandit: Level 3->4
+## Bandit: Level 3->4
 
 
 ![3](https://user-images.githubusercontent.com/71322795/101380214-3ac64e00-38db-11eb-898e-91a116b79545.png)
@@ -64,7 +64,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 
 
-### Bandit: Level 4->5
+## Bandit: Level 4->5
 
 
 ![4](https://user-images.githubusercontent.com/71322795/101380212-3a2db780-38db-11eb-98fa-ad8e9daa7265.png)
@@ -78,7 +78,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 
 
-### Bandit: Level 5->6
+## Bandit: Level 5->6
 
 
 ![5](https://user-images.githubusercontent.com/71322795/101380209-3a2db780-38db-11eb-97a9-468df50aed8e.png)
@@ -93,7 +93,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 
 
-### Bandit: Level 6->7
+## Bandit: Level 6->7
 
 
 ![6](https://user-images.githubusercontent.com/71322795/101380208-39952100-38db-11eb-8fe1-a9eb6a1768e0.png)
@@ -107,7 +107,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 
 
-### Bandit: Level 7->8
+## Bandit: Level 7->8
 
 
 ![7](https://user-images.githubusercontent.com/71322795/101380206-38fc8a80-38db-11eb-953c-b6b636df9ce1.png)
@@ -120,7 +120,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 
 
-### Bandit: Level 8->9
+## Bandit: Level 8->9
 
 
 ![8](https://user-images.githubusercontent.com/71322795/101380204-38fc8a80-38db-11eb-8380-258f5cd6e47b.png)
@@ -133,7 +133,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 
 
-### Bandit: Level 9->10
+## Bandit: Level 9->10
 
 
 ![9](https://user-images.githubusercontent.com/71322795/101380202-3863f400-38db-11eb-8934-92bc53603b57.png)
@@ -146,7 +146,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 
 
-### Bandit: Level 10->11
+## Bandit: Level 10->11
 
 
 ![10](https://user-images.githubusercontent.com/71322795/101380201-3863f400-38db-11eb-95bf-d6d02d161e29.png)
@@ -161,7 +161,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 
 
-### Bandit: Level 11->12
+## Bandit: Level 11->12
 
 
 ![11](https://user-images.githubusercontent.com/71322795/101380199-37cb5d80-38db-11eb-805d-201a8435187e.png)
@@ -175,7 +175,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 
 
-### Bandit: Level 12->13
+## Bandit: Level 12->13
 
 
 ![12](https://user-images.githubusercontent.com/71322795/101380196-3732c700-38db-11eb-92ef-2b38c134523e.png)
@@ -200,7 +200,7 @@ To decompress :
 - Type `exit`
 
 
-### Bandit: Level 13->14
+## Bandit: Level 13->14
 
 
 ![13](https://user-images.githubusercontent.com/71322795/101380193-3732c700-38db-11eb-9ba1-2ee6fde1290c.png)
@@ -214,7 +214,7 @@ To decompress :
 - Type `exit`
 
 
-### Bandit: Level 14->15
+## Bandit: Level 14->15
 
 
 ![14](https://user-images.githubusercontent.com/71322795/101380192-369a3080-38db-11eb-8d9c-df547b5e70ed.png)
