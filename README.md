@@ -10,6 +10,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 
 ### Bandit: Level 0->1
 
+
 - Type command `ssh bandit0@bandit.labs.overthewire.org -p 2220`
 - Type the password : `bandit0`
 - See the files in the server by command `ls`
