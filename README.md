@@ -27,7 +27,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 <br/>
 
-### Bandit: Level 2->3
+## Bandit: Level 2->3
 
 - Type command `ssh bandit2@bandit.labs.overthewire.org -p 2220`
 - Type the password `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`
@@ -36,7 +36,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 <br/>
 
-### Bandit: Level 3->4
+## Bandit: Level 3->4
 
 - Type command `ssh bandit3@bandit.labs.overthewire.org -p 2220`
 - Type the password `UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`
@@ -47,7 +47,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 <br/>
 
-### Bandit: Level 4->5
+## Bandit: Level 4->5
 
 - Type command `ssh bandit4@bandit.labs.overthewire.org -p 2220`
 - Type the password `pIwrPrtPN36QITSp3EQaw936yaFoFgAB`
@@ -57,7 +57,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 <br/>
 
-### Bandit: Level 5->6
+## Bandit: Level 5->6
 
 - Type command `ssh bandit5@bandit.labs.overthewire.org -p 2220`
 - Type the password `koReBOKuIDDepwhWk7jZC0RTdopnAYKh`
@@ -68,7 +68,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 <br/>
 
-### Bandit: Level 6->7
+## Bandit: Level 6->7
 
 - Type command `ssh bandit6@bandit.labs.overthewire.org -p 2220`
 - Type the password `DXjZPULLxYr17uwoI01bNLQbtFemEgo7`
@@ -78,7 +78,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 <br/>
 
-### Bandit: Level 7->8
+## Bandit: Level 7->8
 
 - Type command `ssh bandit7@bandit.labs.overthewire.org -p 2220`
 - Type the password `HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs`
@@ -87,7 +87,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 <br/>
 
-### Bandit: Level 8->9
+## Bandit: Level 8->9
 
 - Type command `ssh bandit8@bandit.labs.overthewire.org -p 2220`
 - Type the password `cvX2JJa4CFALtqS87jk27qwqGhBM9plV`
@@ -96,7 +96,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 <br/>
 
-### Bandit: Level 9->10
+## Bandit: Level 9->10
 
 - Type `command ssh bandit9@bandit.labs.overthewire.org -p 2220`
 - Type the password `UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR`
@@ -105,7 +105,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 <br/>
 
-### Bandit: Level 10->11
+## Bandit: Level 10->11
 
 - Type command `ssh bandit10bandit.labs.overthewire.org -p 2220`
 - Type the password `truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk`
@@ -116,7 +116,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 <br/>
 
-### Bandit: Level 11->12
+## Bandit: Level 11->12
 
 - Type command `ssh bandit11@bandit.labs.overthewire.org -p 2220`
 - Type the password `IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR`
@@ -126,7 +126,7 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `exit`
 <br/>
 
-### Bandit: Level 12->13
+## Bandit: Level 12->13
 
 - Type command `ssh bandit12@bandit.labs.overthewire.org -p 2220`
 - Type the password `5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu`
@@ -147,7 +147,7 @@ To decompress :
 - Type `exit`
 <br/>
 
-### Bandit: Level 13->14
+## Bandit: Level 13->14
 
 - Type command `ssh bandit13@bandit.labs.overthewire.org -p 2220`
 - Type the password `8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL`
@@ -157,7 +157,7 @@ To decompress :
 - Type `exit`
 <br/>
 
-### Bandit: Level 14->15
+## Bandit: Level 14->15
 
 - Type command `ssh bandit14@bandit.labs.overthewire.org -p 2220`
 - Type the password `4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e`
