@@ -6,9 +6,8 @@ This is a basic CTF by OverTheWire, wargames category. Follow the link for extra
 
 
 These are the write-ups for the levels 1-15 of OverTheWire-Bandit
-
-
 <br/>
+
 ## Bandit: Level 0->1
 
 
@@ -34,8 +33,8 @@ These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 - Type `cat ./-` or `cat <-` to read the dashed file
 - Copy the password `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`
 - Type `exit`
-
 <br/>
+
 ## Bandit: Level 2->3
 
 
