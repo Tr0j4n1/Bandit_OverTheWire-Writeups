@@ -4,12 +4,11 @@ This is a basic CTF by OverTheWire, wargames category. Follow the link for extra
 [Bandit - OverTheWire](https://overthewire.org/wargames/bandit/)
 
 
-
 These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 <br/>
 
-### Bandit: Level 0->1
 
+### Bandit: Level 0->1
 
 - Type command `ssh bandit0@bandit.labs.overthewire.org -p 2220`
 - Type the password : `bandit0`
